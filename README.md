@@ -1,0 +1,1 @@
+Repositorio creado para interactuar y practicar con lenguaje Go, estudiar sus distintas funcionalidades, semantica, sintaxis, manejo de estructuras de control, uso de distintos hilos especiales (gorrutinas), canales, interfaz, etc
